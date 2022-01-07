@@ -1,2 +1,2 @@
 # ProjetoConfeitaria
-estudo de caso site confeitaria (bedimcode)
+estudo de caso site responsivo de confeitaria (bedimcode)
